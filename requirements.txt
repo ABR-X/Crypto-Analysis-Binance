@@ -1,131 +1,14 @@
-aiohttp==3.8.4
-aiosignal==1.3.1
-altair==4.2.2
-appdirs==1.4.4
-arviz @ file:///tmp/build/80754af9/arviz_1614019183254/work
-async-timeout==4.0.2
-attrs==22.2.0
-backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.2
-blinker==1.5
-Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
-brotlipy==0.7.0
-bs4==0.0.1
-cachetools==5.3.0
-certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
-cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
-cftime @ file:///C:/ci/cftime_1638340492698/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click==8.1.3
-cmdstanpy==0.9.5
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
-contourpy @ file:///C:/b/abs_d5rpy288vc/croots/recipe/contourpy_1663827418189/work
-convertdate @ file:///home/conda/feedstock_root/build_artifacts/convertdate_1642883757836/work
-cryptography @ file:///C:/b/abs_b7d7drzbky/croot/cryptography_1673298763653/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-Cython @ file:///C:/b/abs_6ev7kndkxh/croot/cython_1676559821329/work
-dateparser==1.1.7
-decorator==5.1.1
-entrypoints==0.4
-ephem==4.1.4
-fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
-filelock==3.9.0
-flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
-fonttools==4.25.0
-frozenlist==1.3.3
-gitdb==4.0.10
-GitPython==3.1.31
-hijri-converter @ file:///home/conda/feedstock_root/build_artifacts/hijri-converter_1653348285237/work
-holidays @ file:///home/conda/feedstock_root/build_artifacts/holidays_1675134011033/work
-huggingface-hub==0.12.1
-idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
-importlib-metadata==6.0.0
-importlib-resources==5.12.0
-Jinja2==3.1.2
-joblib==1.2.0
-jsonschema==4.17.3
-kiwisolver @ file:///C:/b/abs_88mdhvtahm/croot/kiwisolver_1672387921783/work
-korean-lunar-calendar @ file:///home/conda/feedstock_root/build_artifacts/korean_lunar_calendar_1663341251025/work
-LunarCalendar==0.0.9
-markdown-it-py==2.2.0
-MarkupSafe==2.1.2
-matplotlib @ file:///C:/b/abs_03z_dj2gty/croot/matplotlib-suite_1670466145509/work
-mdurl==0.1.2
-mkl-fft==1.3.1
-mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
-mkl-service==2.4.0
-mplfinance @ file:///home/conda/feedstock_root/build_artifacts/mplfinance_1670816160016/work
-multidict==6.0.4
-munkres==1.1.4
-netCDF4 @ file:///C:/b/abs_e8sfulljvr/croot/netcdf4_1673455470770/work
-numexpr @ file:///C:/b/abs_a7kbak88hk/croot/numexpr_1668713882979/work
-numpy @ file:///C:/b/abs_datssh7cer/croot/numpy_and_numpy_base_1672336199388/work
-packaging @ file:///C:/b/abs_cfsup8ur87/croot/packaging_1671697442297/work
-pandas @ file:///C:/b/abs_c6fuezktfm/croot/pandas_1670425103552/work
-patsy==0.5.3
-Pillow==9.3.0
-pkgutil_resolve_name==1.3.10
+binance==0.3
+matplotlib==3.6.2
+numpy==1.23.5
+pandas==1.5.2
+Pillow==9.4.0
 plotly==5.13.0
-ply==3.11
-pmdarima==2.0.2
-pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
-protobuf==3.20.3
-pyarrow==11.0.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-pycryptodome==3.17
-pydeck==0.8.0
-Pygments==2.14.0
-PyMeeus @ file:///home/conda/feedstock_root/build_artifacts/pymeeus_1670868433998/work
-Pympler==1.0.1
-pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
-pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
-PyQt5==5.15.7
-PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
-pyrsistent==0.19.3
-PySocks @ file:///C:/ci/pysocks_1605287845585/work
-pystan==2.18.0.0
-python-binance==1.0.17
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
-pytz-deprecation-shim==0.1.0.post0
-PyYAML==6.0
-regex==2022.10.31
-requests @ file:///C:/ci/requests_1657717096906/work
-rich==13.3.1
-scikit-learn==1.2.1
-scipy==1.10.0
+python_binance==1.0.17
+requests==2.28.1
 seaborn==0.12.2
-semver==2.13.0
-sentencepiece==0.1.97
-setuptools-git==1.2
-sip @ file:///C:/Windows/Temp/abs_b8fxd17m2u/croots/recipe/sip_1659012372737/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap==5.0.0
-soupsieve==2.4
-statsmodels==0.13.5
 streamlit==1.17.0
-tenacity==8.2.1
-threadpoolctl==3.1.0
-tokenizers==0.13.2
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-toolz==0.12.0
 torch==1.13.1
-torchaudio==0.13.1
-torchvision==0.14.1
-tornado @ file:///C:/ci/tornado_1662476991259/work
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
 transformers==4.26.1
-typing_extensions==4.5.0
-tzdata==2022.7
-tzlocal==4.2
-ujson==5.7.0
-urllib3 @ file:///C:/b/abs_9bcwxczrvm/croot/urllib3_1673575521331/work
-validators==0.20.0
-watchdog==2.2.1
-websocket-client==1.5.1
-websockets==10.4
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
-wincertstore==0.2
-xarray @ file:///C:/b/abs_2fi_umrauo/croot/xarray_1668776806973/work
-yarl==1.8.2
-zipp==3.14.0
+websocket_client==1.5.1
