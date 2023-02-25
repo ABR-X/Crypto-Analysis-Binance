@@ -76,7 +76,9 @@ def add_rolling_features(df):
     return df
 
 def load_model():
-    with open("D:\github_projects\Crypto-analysis-binance\ml_models_functions\model.pkl", 'rb') as f:
+    from pathlib import Path
+    current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+    with open(current_dir / "../ml_models_functions/model.pkl", 'rb') as f:
         loaded_model = pickle.load(f)
     return loaded_model
 
